@@ -1,19 +1,4 @@
-# Code for the 4th Solution (Team Durrett) at Kaggle LuxAI 2021
-## Hardware
-- CPU specs: Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz
-- number of CPU cores: 8
-- GPU specs: GeForce GTX 1080Ti
-- number of GPUs: 2
-
-## OS/platform
-- Ubuntu20.04 (512GB boot disk)
-- 48GB memory
-
-## 3rd-party software
-- Docker 20.10.11
-Dockerfile we used is [Kaggle/docker-python](https://github.com/Kaggle/docker-python). 
-  
-## train model
+ ## train model
 ```
 python train.py
 ```
