@@ -10,8 +10,8 @@ MODEL_DIR = settings['MODEL_DIR']
 SEED = 42
 
 # training parameters
-NUM_EPOCHS = 100
-LAYERS = 18
+NUM_EPOCHS = 50
+LAYERS = 8
 VAL_RATIO = 0.0
 BATCH_SIZE = 64
 FEATURE_SIZE = 384
